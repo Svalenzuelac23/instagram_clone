@@ -1,6 +1,6 @@
 # instagram_clone
 
-![] (demo/instagram_clone.gif)
+![Instagram_clone](https://user-images.githubusercontent.com/53074983/87184439-3bfc3c00-c2a5-11ea-99ba-f6a43a7db311.gif)
 
 A new Flutter project.
 
