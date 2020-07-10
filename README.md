@@ -1,8 +1,12 @@
 # instagram_clone
 
+![] (demo/instagram_clone.gif)
+
 A new Flutter project.
 
 ## Getting Started
+
+
 
 This project is a starting point for a Flutter application.
 
